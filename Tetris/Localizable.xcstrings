@@ -1,0 +1,62 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Authors (HSE Students):" : {
+
+    },
+    "Authors:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Авторы:"
+          }
+        }
+      }
+    },
+    "Contact us!" : {
+
+    },
+    "Game over\n Score: " : {
+
+    },
+    "Game over\\n Score: " : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "Игра окончена\\n Счёт: "
+          }
+        }
+      }
+    },
+    "Share" : {
+
+    },
+    "This app implements the Tetris game in an AR space." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Данное приложение реализует игру в Тетрис в дополненной реальности."
+          }
+        }
+      }
+    },
+    "Welcome to Tetris AR App" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Добро пожаловать в Tetris в AR"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
